@@ -134,7 +134,7 @@ export const getColumns = ({github}: GetColumnParams) => {
       {
         title: '电子病历编辑器',
         url: '',
-        description: '病历管理与书写',
+        description: 'https://x-emr.cn/',
         openExternal: true,
       },
       {
