@@ -1,1 +1,0 @@
-(self.webpackChunkmetagalaxy=self.webpackChunkmetagalaxy||[]).push([[96],{20142:function(a,t,n){"use strict";n.r(t),n.d(t,{default:function(){return u.Z}});var u=n(55178)},36404:function(){},69536:function(){},69862:function(){},40964:function(){}}]);
